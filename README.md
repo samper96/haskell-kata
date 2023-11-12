@@ -1,3 +1,3 @@
-# Code Wars kata completed in Haskell
+# Code Wars kata solutions in Haskell
 
 https://www.codewars.com/users/psamper
