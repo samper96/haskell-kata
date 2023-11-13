@@ -4,9 +4,6 @@ summation :: Integer -> Integer
 summation 0 = 0
 summation n = n + summation (n - 1)
 
--- summation n = sum [1..n]
-
-
 isNegative :: Int -> Bool
 isNegative n
   | n > 0 = False
